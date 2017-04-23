@@ -4,7 +4,7 @@ title: Telstra Network Disruptions
 tags: [kaggle, telstra, data-science, python]
 ---
 
-In this competition we were challenged to predict the severity of a network failure on Telstra’s network. There is a good set of established (and obvious) features so this competition was a chance to work on some interesting feature generation techniques that I hadn’t tried before. Overall it was an interesting competition with some good discussion. You can check it out [here](https://www.kaggle.com/c/telstra-recruiting-network “Telstra Kaggle Competition”) and see my submissions [here](https://github.com/jyesawtellrickson/kaggle/Telstra/).
+In this competition we were challenged to predict the severity of a network failure on Telstra’s network. There is a good set of established (and obvious) features so this competition was a chance to work on some interesting feature generation techniques that I hadn’t tried before. Overall it was an interesting competition with some good discussion. You can check it out [here](https://www.kaggle.com/c/telstra-recruiting-network) and see my submissions [here](https://github.com/jyesawtellrickson/kaggle/Telstra/).
 
 # Data Preparation
 There were many different sources of data for this competition including severity, resource types and event numberings. Most of this data isn’t in a neat numeric format so the data was first processed with map functions.
