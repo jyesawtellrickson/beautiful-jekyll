@@ -6,7 +6,7 @@
 - glitch
 - codepen
 - freecodecamp
-- heroku
+- [heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
 
 ## To do
 - mean.io
