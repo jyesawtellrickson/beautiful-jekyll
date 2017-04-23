@@ -33,6 +33,6 @@ Jye
 
 To send this, I’ll be using a mail merge script I wrote (within Google Scripts) but you can also try out a basic one [here](https://yet-another-mail-merge.com/ "Yet Another Mail Merge"). These do the same thing, in that they send out an email by replacing the placeholders you have.
 
-Awesome, let’s blast! Hold up. How are we going to track this? Being able to track things like open rate, click-through rate and response rate is very important if we want to learn anything about our customers, or even improve upon our template. You can use a Google Analytics plug-in: [LINK].
+Awesome, let’s blast! Hold up. How are we going to track this? Being able to track things like open rate, click-through rate and response rate is very important if we want to learn anything about our customers, or even improve upon our template. You can use Google Analytics to get user events ([see this great article](http://www.lunametrics.com/blog/2013/06/17/email-tracking-google-analytics/) and then pull the data into Google Sheets using the Google Analytics plug-in.
 
 So, does this work? It does. Using this we got an awesome click-through rate of over 30%, we had response at 6% and we even had some calls coming through. Since then, numerous have converted to long-term customers. Needless to say, I recommend you try this out if you’re targeting any particular roles / people.
