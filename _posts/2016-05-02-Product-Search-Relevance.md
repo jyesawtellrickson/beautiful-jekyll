@@ -21,6 +21,7 @@ To judge the product-search relevance we generate numerous features; primarily:
 - length: are the query and product name of a similar length?
 - query matching: can we find any words in both terms?
 - brand matching: is the brand found in both the query and product?
+
 These features are expanded upon in depth by utilising the full set of product information. Ratios between certain variables are calculated where they could add value.
 
 ## Prediction
