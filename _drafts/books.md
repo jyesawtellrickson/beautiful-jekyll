@@ -8,7 +8,10 @@ As I was growing up, I wasn't really into reading but I did my best to read when
 
 
 ## The importance of being selfish
-Atlas Shrugged, The Fountainhead, The Count of Monto Cristo (Dumas, Musketeers)
+Atlas Shrugged, The Fountainhead, 
+
+## Never give up, ever
+The Count of Monto Cristo (Dumas, Musketeers)
 
 ## It's OK to be smart
 Physics Feynmann
