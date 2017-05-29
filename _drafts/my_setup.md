@@ -27,3 +27,7 @@ Chrome, but I really like Edge and try to use when I can.
 # IDEs
 Python: PyCharm
 Javascript: Visual Studio Code
+
+# Tools
+SOCLI - A command line interface for Stack Overflow that allows for quick answers to basic questions.
+jrnl - A command line journal for keeping a record of my daily happenings.
