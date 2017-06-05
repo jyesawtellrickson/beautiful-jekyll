@@ -24,6 +24,8 @@ I've also gone and swapped the key mappings for the Ctrl, Shift and CAPS keys. T
 # Browser
 Chrome, but I really like Edge and try to use when I can.
 
+On Chrome I have the addition of the Vimium browser add-on which allows you to use Vim like shortcuts to navigate the web without a mouse. The best being the typical up and down scroll of Vim and the h-key which allows you to navigate any link on the page. It's a great addition and I recommend it to all!
+
 # IDEs
 Python: PyCharm
 Javascript: Visual Studio Code
