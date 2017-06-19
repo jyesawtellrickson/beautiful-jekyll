@@ -3,7 +3,7 @@ layout: post
 title: Facebook Chatbot
 ---
 
-Source: https://github.com/jyesawtellrickson/facebook-chatbot/
+Source: [https://github.com/jyesawtellrickson/facebook-chatbot/]
 
 In my past role at CaterSpot I was responsible for making sure those who need catering can find the products they need as quickly as possible. When it comes to catering, there is a lot to choose from and the menus can be very complicated, and this was especially true when you looked at our product. I wanted to simplify this process and give the user a more friendly approach. To do this, I created the CaterBot, a simple little bot which would present the information available on the platform direct to the user, natively through the Facebook Messenger Platform.
 
