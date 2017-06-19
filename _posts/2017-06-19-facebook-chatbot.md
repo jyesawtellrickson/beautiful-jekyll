@@ -33,7 +33,5 @@ The final product was able to simplify the process taken by the user and rapidly
 
 ## Screenshots
 
-![Introduction](http://i.imgur.com/ByOcAno.png)
-
 <img src="http://i.imgur.com/ByOcAno.png" width=250px><img src="http://i.imgur.com/9rErvBW.png" width=250px><img src="http://i.imgur.com/mrLJL9v.png" width=250px><img src="http://i.imgur.com/9aTv553.png" width=250px><img src="http://i.imgur.com/82c4fI5.png" width=250px>
 
