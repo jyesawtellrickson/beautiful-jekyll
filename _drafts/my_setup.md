@@ -26,9 +26,15 @@ Chrome, but I really like Edge and try to use when I can.
 
 On Chrome I have the addition of the Vimium browser add-on which allows you to use Vim like shortcuts to navigate the web without a mouse. The best being the typical up and down scroll of Vim and the h-key which allows you to navigate any link on the page. It's a great addition and I recommend it to all!
 
+I use the Stylish add-on to customise the css of websites I view, the main use being to enable dark themes for things like Github, Google, Youtube, etc.
+
+For reading websites I have the Spritze-inspired Readline add-on which allows for much faster reading speed on big articles.
+
 # IDEs
 Python: PyCharm
 Javascript: Visual Studio Code
+
+For each of these IDEs I have a vim add-on to enable vim features.
 
 # Tools
 SOCLI - A command line interface for Stack Overflow that allows for quick answers to basic questions.
